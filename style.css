@@ -42,9 +42,7 @@
       transform: translateY(-45px);
     }
   }
-  
-    /* styling about us section */
-  /* .about{
+  .about{
     text-align: center;
     padding-bottom: 30px;
     padding-top:40px;
@@ -54,7 +52,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
   }
-   */
+
   
     /* styling the services section */
   /* .services{
