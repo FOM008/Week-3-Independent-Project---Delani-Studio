@@ -60,7 +60,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
-    font-size: 18px;
+    font-size: 15px;
   }
   .services h2{
     font-family: 'Roboto', sans-serif;
@@ -258,7 +258,6 @@
     padding-bottom: 30px;
     margin-bottom: 20px;
   }
-  /* styling footer section */
   footer{
     text-align: center;
     padding-top: 30px;
